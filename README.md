@@ -20,7 +20,7 @@ What does the UI look like?
 
 TODO
 --------------------------
-* Use MVP Architecture
+* Use MVP Architectures
 * Implement Playlist Recyclerview
 
 
